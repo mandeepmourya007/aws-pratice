@@ -1,1 +1,1 @@
-# aws-pratice
+# aws-practice
